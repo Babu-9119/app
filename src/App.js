@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <Greet login = "login" logout = "logout"/>
+      <Assignment />
     </div>
   );
 }
